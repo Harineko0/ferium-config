@@ -1,0 +1,309 @@
+{
+  "active_profile": 1,
+  "profiles": [
+    {
+      "name": "forge_1.20.1",
+      "output_dir": "C:\\Users\\hatin\\AppData\\Roaming\\.minecraft\\mods\\forge_1.20.1",
+      "game_version": "1.20.1",
+      "mod_loader": "Forge",
+      "mods": [
+        {
+          "name": "Balm",
+          "identifier": {
+            "ModrinthProject": "MBAkmtvl"
+          }
+        },
+        {
+          "name": "Breezy",
+          "identifier": {
+            "ModrinthProject": "AiTMEFuN"
+          }
+        },
+        {
+          "name": "Chimes",
+          "identifier": {
+            "CurseForgeProject": 350464
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Cristel Lib",
+          "identifier": {
+            "ModrinthProject": "cl223EMc"
+          }
+        },
+        {
+          "name": "Diagonal Windows [Forge & Fabric]",
+          "identifier": {
+            "CurseForgeProject": 891328
+          }
+        },
+        {
+          "name": "DivineRPG (Official)",
+          "identifier": {
+            "CurseForgeProject": 363543
+          }
+        },
+        {
+          "name": "Embeddium",
+          "identifier": {
+            "ModrinthProject": "sk9rgfiA"
+          }
+        },
+        {
+          "name": "Farmer's Delight",
+          "identifier": {
+            "CurseForgeProject": 398521
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "Forgified Fabric API",
+          "identifier": {
+            "ModrinthProject": "Aqlf1Shp"
+          }
+        },
+        {
+          "name": "Geckolib",
+          "identifier": {
+            "ModrinthProject": "8BmcQJ2H"
+          }
+        },
+        {
+          "name": "Handcrafted",
+          "identifier": {
+            "ModrinthProject": "pJmCFF0p"
+          }
+        },
+        {
+          "name": "Immersive Aircraft [Fabric/Forge]",
+          "identifier": {
+            "CurseForgeProject": 666014
+          }
+        },
+        {
+          "name": "Just Enough Items",
+          "identifier": {
+            "ModrinthProject": "u6dRKJwZ"
+          }
+        },
+        {
+          "name": "Kawaii Dishes",
+          "identifier": {
+            "ModrinthProject": "v2Vpr5Uf"
+          }
+        },
+        {
+          "name": "MmmMmmMmmMmm (Target Dummy)",
+          "identifier": {
+            "CurseForgeProject": 225738
+          }
+        },
+        {
+          "name": "Moonlight Lib",
+          "identifier": {
+            "CurseForgeProject": 499980
+          }
+        },
+        {
+          "name": "Oculus",
+          "identifier": {
+            "ModrinthProject": "GchcoXML"
+          }
+        },
+        {
+          "name": "Paragliders",
+          "identifier": {
+            "CurseForgeProject": 289240
+          }
+        },
+        {
+          "name": "Puzzles Lib [Forge & Fabric]",
+          "identifier": {
+            "CurseForgeProject": 495476
+          }
+        },
+        {
+          "name": "Resourceful Lib",
+          "identifier": {
+            "ModrinthProject": "G1hIVOrD"
+          }
+        },
+        {
+          "name": "Sinytra Connector",
+          "identifier": {
+            "ModrinthProject": "u58R1TMW"
+          }
+        },
+        {
+          "name": "Snowy Spirit",
+          "identifier": {
+            "ModrinthProject": "UiFDlI7w"
+          }
+        },
+        {
+          "name": "Sophisticated Backpacks",
+          "identifier": {
+            "CurseForgeProject": 422301
+          }
+        },
+        {
+          "name": "Sophisticated Core",
+          "identifier": {
+            "CurseForgeProject": 618298
+          }
+        },
+        {
+          "name": "The Aether",
+          "identifier": {
+            "CurseForgeProject": 255308
+          }
+        },
+        {
+          "name": "The Twilight Forest",
+          "identifier": {
+            "CurseForgeProject": 227639
+          }
+        },
+        {
+          "name": "Waystones",
+          "identifier": {
+            "ModrinthProject": "LOpKHB2A"
+          }
+        },
+        {
+          "name": "When Dungeons Arise - Forge!",
+          "identifier": {
+            "CurseForgeProject": 442508
+          }
+        },
+        {
+          "name": "William Wythers' Expanded Ecosphere",
+          "identifier": {
+            "ModrinthProject": "O1XGs7ps"
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "ModrinthProject": "1bokaNcj"
+          }
+        }
+      ]
+    },
+    {
+      "name": "fabric_1.20.1",
+      "output_dir": "C:\\Users\\hatin\\AppData\\Roaming\\.minecraft\\mods\\fabric_1.20.1",
+      "game_version": "1.20.1",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "Archers (RPG Series)",
+          "identifier": {
+            "ModrinthProject": "QgooUXAJ"
+          }
+        },
+        {
+          "name": "AzureLib Armor",
+          "identifier": {
+            "ModrinthProject": "pduQXSbl"
+          }
+        },
+        {
+          "name": "Gazebos (RPG Series)",
+          "identifier": {
+            "ModrinthProject": "XIpMGI6r"
+          }
+        },
+        {
+          "name": "Inventory Sorting",
+          "identifier": {
+            "CurseForgeProject": 325471
+          }
+        },
+        {
+          "name": "Jewelry (RPG Series)",
+          "identifier": {
+            "ModrinthProject": "sNJAIjUm"
+          }
+        },
+        {
+          "name": "Lanterns Belong on Walls",
+          "identifier": {
+            "CurseForgeProject": 596474
+          }
+        },
+        {
+          "name": "Paladins & Priests (RPG Series)",
+          "identifier": {
+            "ModrinthProject": "FxXkHaLe"
+          }
+        },
+        {
+          "name": "playerAnimator",
+          "identifier": {
+            "CurseForgeProject": 658587
+          }
+        },
+        {
+          "name": "Projectile Damage Attribute",
+          "identifier": {
+            "ModrinthProject": "AOyJhFvl"
+          }
+        },
+        {
+          "name": "Runes [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 775518
+          }
+        },
+        {
+          "name": "Spell Engine",
+          "identifier": {
+            "ModrinthProject": "XvoWJaA2"
+          }
+        },
+        {
+          "name": "Spell Power Attributes",
+          "identifier": {
+            "ModrinthProject": "8ooWzSQP"
+          }
+        },
+        {
+          "name": "Statement Library",
+          "identifier": {
+            "CurseForgeProject": 340604
+          }
+        },
+        {
+          "name": "Structure Pool API",
+          "identifier": {
+            "ModrinthProject": "LrYZi08Q"
+          }
+        },
+        {
+          "name": "Trinkets",
+          "identifier": {
+            "ModrinthProject": "5aaWibi9"
+          }
+        },
+        {
+          "name": "Wizards (RPG Series)",
+          "identifier": {
+            "ModrinthProject": "NkGaQMDA"
+          }
+        }
+      ]
+    }
+  ]
+}
