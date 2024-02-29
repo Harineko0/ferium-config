@@ -164,6 +164,12 @@
           }
         },
         {
+          "name": "Statement Library",
+          "identifier": {
+            "CurseForgeProject": 340604
+          }
+        },
+        {
           "name": "The Aether",
           "identifier": {
             "CurseForgeProject": 255308
@@ -277,12 +283,6 @@
           "name": "Spell Power Attributes",
           "identifier": {
             "ModrinthProject": "8ooWzSQP"
-          }
-        },
-        {
-          "name": "Statement Library",
-          "identifier": {
-            "CurseForgeProject": 340604
           }
         },
         {
