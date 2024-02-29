@@ -226,6 +226,18 @@
           }
         },
         {
+          "name": "Better Combat [Fabric & Forge]",
+          "identifier": {
+            "CurseForgeProject": 639842
+          }
+        },
+        {
+          "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+          "identifier": {
+            "CurseForgeProject": 348521
+          }
+        },
+        {
           "name": "Gazebos (RPG Series)",
           "identifier": {
             "ModrinthProject": "XIpMGI6r"
